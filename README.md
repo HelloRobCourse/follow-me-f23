@@ -1,2 +1,3 @@
-# follow-me-f23
-Template code for the Follow Me checkpoint (C++).
+# Follow Me Checkpoint (F23)
+
+Follow me 1D and 2D control checkpoint.
